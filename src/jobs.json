@@ -1,0 +1,550 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Dev",
+      "type": "Full-Time",
+      "location": "Boston, MA",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions.",
+        "contactEmail": "contact@tek.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in Brooklyn, NY, and work on exciting projects that make a difference.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud specializes in digital solutions for businesses of all sizes.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "location": "Phoenix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in Phoenix, AZ. This position offers flexible hours and remote work opportunities.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite specializes in digital marketing and web development.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "location": "Atlanta, GA",
+      "description": "Exciting opportunity for a Full Stack React Developer in Atlanta, GA. We are seeking a talented individual to build scalable web applications.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies specializes in e-commerce solutions.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "location": "Portland, OR",
+      "description": "Join our team as a React Native Developer in Portland, OR. We are looking for an enthusiastic individual to create innovative mobile solutions.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions specializes in software development and digital marketing.",
+        "contactEmail": "contact@ips.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Frontend Developer - React",
+      "type": "Full-Time",
+      "location": "Seattle, WA",
+      "description": "We are looking for a React Front-End Developer to join our Seattle team and help build modern web applications.",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "TechForge",
+        "description": "TechForge delivers innovative tech solutions to modern businesses.",
+        "contactEmail": "contact@techforge.com",
+        "contactPhone": "555-555-5556"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React UI Developer",
+      "type": "Contract",
+      "location": "Austin, TX",
+      "description": "Join us on a contract basis to create stunning UI experiences with React in Austin, TX.",
+      "salary": "$50/hr",
+      "company": {
+        "name": "Innovative Design Co.",
+        "description": "We specialize in user-centric design and development solutions.",
+        "contactEmail": "hr@idc.com",
+        "contactPhone": "555-555-1234"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "location": "Denver, CO",
+      "description": "Looking for a junior React developer eager to learn and grow in Denver, CO.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "BrightTech Labs",
+        "description": "A startup focused on innovative web solutions.",
+        "contactEmail": "careers@brighttech.com",
+        "contactPhone": "555-555-7890"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React Front-End Engineer",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "Fully remote position for an experienced React Front-End Engineer.",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "GlobalSoft Inc.",
+        "description": "We build software solutions for global clients.",
+        "contactEmail": "jobs@globalsoft.com",
+        "contactPhone": "555-555-9999"
+      }
+    },
+    {
+      "id": "11",
+      "title": "React Front-End Engineer",
+      "type": "Full-Time",
+      "location": "San Diego, CA",
+      "description": "Seeking a React Front-End Engineer to create cutting-edge web applications in sunny San Diego.",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "BrightTech Innovations",
+        "description": "A forward-thinking tech firm focused on innovative web solutions.",
+        "contactEmail": "careers@brighttech.com",
+        "contactPhone": "555-555-5551"
+      }
+    },
+    {
+      "id": "12",
+      "title": "React Native Developer",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "Looking for an experienced React Native Developer to build mobile applications for iOS and Android.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Global AppWorks",
+        "description": "Mobile app development agency delivering solutions worldwide.",
+        "contactEmail": "jobs@globalappworks.com",
+        "contactPhone": "555-555-5552"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Full-Stack React Developer",
+      "type": "Contract",
+      "location": "Seattle, WA",
+      "description": "Contract opportunity for a Full-Stack React Developer skilled in Node.js and MongoDB.",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "Cascade Tech Solutions",
+        "description": "Specializing in full-stack web solutions for e-commerce.",
+        "contactEmail": "hr@cascadetech.com",
+        "contactPhone": "555-555-5553"
+      }
+    },
+    {
+      "id": "14",
+      "title": "React UI/UX Developer",
+      "type": "Full-Time",
+      "location": "Austin, TX",
+      "description": "Join our team to create intuitive and beautiful React-based user interfaces.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "DesignLogic",
+        "description": "A creative agency focused on UI/UX excellence.",
+        "contactEmail": "info@designlogic.com",
+        "contactPhone": "555-555-5554"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Junior React Developer",
+      "type": "Part-Time",
+      "location": "Orlando, FL",
+      "description": "Great opportunity for a junior developer to gain hands-on React experience.",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "EduTech Labs",
+        "description": "Focused on educational technology solutions.",
+        "contactEmail": "apply@edutechlabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Senior Front-End Engineer (React)",
+      "type": "Full-Time",
+      "location": "New York, NY",
+      "description": "Looking for a Senior Front-End Engineer to work on large-scale React projects.",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "NYC Digital",
+        "description": "Building innovative digital platforms for enterprises.",
+        "contactEmail": "careers@nycdigital.com",
+        "contactPhone": "555-555-5556"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Chicago, IL",
+      "description": "Develop dynamic web applications with React.js in a collaborative team environment.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Windy City Devs",
+        "description": "Web development agency delivering top-notch applications.",
+        "contactEmail": "jobs@windycitydevs.com",
+        "contactPhone": "555-555-5557"
+      }
+    },
+    {
+      "id": "18",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "location": "Los Angeles, CA",
+      "description": "Help us build visually stunning React applications.",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "MediaWave Studios",
+        "description": "Creating engaging digital experiences for media companies.",
+        "contactEmail": "careers@mediawave.com",
+        "contactPhone": "555-555-5558"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React Native Engineer",
+      "type": "Full-Time",
+      "location": "Denver, CO",
+      "description": "Work on cross-platform mobile apps using React Native.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "RockyTech",
+        "description": "Pioneering mobile solutions in the tech industry.",
+        "contactEmail": "jobs@rockytech.com",
+        "contactPhone": "555-555-5559"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React Developer Intern",
+      "type": "Internship",
+      "location": "Atlanta, GA",
+      "description": "Paid internship for aspiring React developers.",
+      "salary": "$20/hr",
+      "company": {
+        "name": "CodeCamp Labs",
+        "description": "Tech education startup offering learning opportunities.",
+        "contactEmail": "internships@codecamp.com",
+        "contactPhone": "555-555-5560"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Front-End React Developer",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "Fully remote role building dynamic React-based web applications.",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "CloudWeb Works",
+        "description": "A cloud-first web development firm.",
+        "contactEmail": "careers@cloudwebworks.com",
+        "contactPhone": "555-555-5561"
+      }
+    },
+    {
+      "id": "22",
+      "title": "React UI Engineer",
+      "type": "Full-Time",
+      "location": "San Francisco, CA",
+      "description": "Create user interfaces with React for our SaaS platform.",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "NextGen Soft",
+        "description": "Building next-generation SaaS products.",
+        "contactEmail": "jobs@nextgensoft.com",
+        "contactPhone": "555-555-5562"
+      }
+    },
+    {
+      "id": "23",
+      "title": "React and Redux Developer",
+      "type": "Contract",
+      "location": "Philadelphia, PA",
+      "description": "Short-term contract for a React/Redux expert.",
+      "salary": "$60/hr",
+      "company": {
+        "name": "Philly DevCo",
+        "description": "Software consultancy serving local businesses.",
+        "contactEmail": "hr@phillydevco.com",
+        "contactPhone": "555-555-5563"
+      }
+    },
+    {
+      "id": "24",
+      "title": "React Developer (Healthcare)",
+      "type": "Full-Time",
+      "location": "Houston, TX",
+      "description": "Develop web applications for the healthcare industry using React.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "MediTech Solutions",
+        "description": "Health tech company focused on digital innovation.",
+        "contactEmail": "careers@meditech.com",
+        "contactPhone": "555-555-5564"
+      }
+    },
+    {
+      "id": "25",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "location": "San Francisco, CA",
+      "description": "Looking for a React Front-End Developer to create responsive and engaging user interfaces.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "SiliconTech Innovations",
+        "description": "A leading tech firm focused on innovative web solutions.",
+        "contactEmail": "jobs@silicontech.com",
+        "contactPhone": "555-555-5565"
+      }
+    },
+    {
+      "id": "26",
+      "title": "React Native Developer",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "Develop cross-platform mobile apps using React Native.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "AppFusion",
+        "description": "Building next-gen mobile applications for global clients.",
+        "contactEmail": "careers@appfusion.com",
+        "contactPhone": "555-555-5566"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Senior React Engineer",
+      "type": "Full-Time",
+      "location": "New York, NY",
+      "description": "Seeking a Senior React Engineer to lead front-end projects.",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "BigCity Tech",
+        "description": "A fast-paced startup revolutionizing web technologies.",
+        "contactEmail": "jobs@bigcitytech.com",
+        "contactPhone": "555-555-5567"
+      }
+    },
+    {
+      "id": "28",
+      "title": "React Developer",
+      "type": "Part-Time",
+      "location": "Phoenix, AZ",
+      "description": "Part-time role developing dynamic React applications.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "CodeCraft Studios",
+        "description": "A creative agency specializing in web development.",
+        "contactEmail": "careers@codecraft.com",
+        "contactPhone": "555-555-5568"
+      }
+    },
+    {
+      "id": "29",
+      "title": "React Native Mobile Engineer",
+      "type": "Contract",
+      "location": "Denver, CO",
+      "description": "Contract position for React Native development.",
+      "salary": "$85/hr",
+      "company": {
+        "name": "MountainTech",
+        "description": "Specializing in mobile app development.",
+        "contactEmail": "hr@mountaintech.com",
+        "contactPhone": "555-555-5569"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "location": "Seattle, WA",
+      "description": "Great opportunity for a junior developer to grow in React development.",
+      "salary": "$65K - $75K",
+      "company": {
+        "name": "DevStart Labs",
+        "description": "Fostering growth in web development.",
+        "contactEmail": "jobs@devstart.com",
+        "contactPhone": "555-555-5570"
+      }
+    },
+    {
+      "id": "31",
+      "title": "React.js Front-End Developer",
+      "type": "Remote",
+      "location": "Remote",
+      "description": "Remote position for a React.js developer.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "GlobalWeb Tech",
+        "description": "Providing web solutions for global clients.",
+        "contactEmail": "jobs@globalwebtech.com",
+        "contactPhone": "555-555-5571"
+      }
+    },
+    {
+      "id": "32",
+      "title": "React UI Developer",
+      "type": "Full-Time",
+      "location": "Chicago, IL",
+      "description": "Create stunning user interfaces using React.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "WindyCity Design",
+        "description": "Design-focused tech company.",
+        "contactEmail": "careers@windycitydesign.com",
+        "contactPhone": "555-555-5572"
+      }
+    },
+    {
+      "id": "33",
+      "title": "React Front-End Engineer",
+      "type": "Full-Time",
+      "location": "Austin, TX",
+      "description": "Develop high-quality web applications using React.",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "TechSpire",
+        "description": "Innovating in the tech space.",
+        "contactEmail": "jobs@techspire.com",
+        "contactPhone": "555-555-5573"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Los Angeles, CA",
+      "description": "Lead React development projects in an agile environment.",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "LA Digital Solutions",
+        "description": "Delivering high-quality digital products.",
+        "contactEmail": "careers@ladigital.com",
+        "contactPhone": "555-555-5574"
+      }
+    },
+    {
+      "id": "35",
+      "title": "React Developer (Healthcare Apps)",
+      "type": "Contract",
+      "location": "Houston, TX",
+      "description": "Develop React-based applications for healthcare solutions.",
+      "salary": "$80/hr",
+      "company": {
+        "name": "HealthTech Corp",
+        "description": "Digital solutions for healthcare.",
+        "contactEmail": "jobs@healthtechcorp.com",
+        "contactPhone": "555-555-5575"
+      }
+    },
+    {
+      "id": "36",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our mobile team to create React Native applications.",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "SunTech Apps",
+        "description": "Mobile app development company.",
+        "contactEmail": "careers@suntechapps.com",
+        "contactPhone": "555-555-5576"
+      }
+    },
+    {
+      "id": "37",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "location": "Portland, OR",
+      "description": "Build dynamic front-end solutions using React.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "RoseCity Web",
+        "description": "Web development agency.",
+        "contactEmail": "jobs@rosecityweb.com",
+        "contactPhone": "555-555-5577"
+      }
+    },
+    {
+      "id": "38",
+      "title": "React.js Engineer",
+      "type": "Full-Time",
+      "location": "Philadelphia, PA",
+      "description": "Work on innovative React-based web applications.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "PhillyWeb Innovators",
+        "description": "A leading web technology company.",
+        "contactEmail": "careers@phillyweb.com",
+        "contactPhone": "555-555-5578"
+      }
+    },
+    {
+      "id": "39",
+      "title": "React Developer Intern",
+      "type": "Internship",
+      "location": "Atlanta, GA",
+      "description": "Internship for aspiring React developers.",
+      "salary": "$20/hr",
+      "company": {
+        "name": "StartUpLab",
+        "description": "Incubating the next generation of developers.",
+        "contactEmail": "interns@startuplab.com",
+        "contactPhone": "555-555-5579"
+      }
+    }
+  ]
+}
