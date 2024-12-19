@@ -1,8 +1,15 @@
-# React + Vite
+Job Listings Apps
+- A React(JavaScript) based application where user can browse, save their favorites jobs, and apply for them. This project uses JSON as mock database, pagination, shows state management, fom handling, and a responsive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Scripts
+- npm run dev: Start the development server.
+- npm run server: Start the JSON server to serve jobs.json.
 
-Currently, two official plugins are available:
+Technology Used
+- React: Front-end framework.
+- Vite: Development server and build tool.
+- Tailwind CSS: Styling framework.
+- Zustand: State management.
+- JSON Server: Mock API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thank You Nexbil for your opportunity to learn and create this wonderful app.
