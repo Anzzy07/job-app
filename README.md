@@ -12,4 +12,4 @@ Technology Used
 - Zustand: State management.
 - JSON Server: Mock API.
 
-Thank You Nexbil for your opportunity to learn and create this wonderful app.
+
